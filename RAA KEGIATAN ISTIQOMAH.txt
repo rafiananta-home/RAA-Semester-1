@@ -4,7 +4,5 @@ BISMILLAH ISTIQOMAH
 - Olahraga dumbbell 3x seminggu
   * SHOULDERS
   * BACK
-- Membaca buku minimal 20 menit/hari
-  * ATOMIC HABITS
-  * NU & PESANTREN
 - Belajar Pemrograman JAVA 
+- Belajar DATABASE
